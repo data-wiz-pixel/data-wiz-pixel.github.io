@@ -1,2 +1,6 @@
-# data-wiz-pixel.github.io
-my portfolio
+# Portfolio
+## My Projects
+### Project 1
+
+### Project 2
+
