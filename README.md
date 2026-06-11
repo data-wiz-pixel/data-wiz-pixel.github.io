@@ -1,6 +1,6 @@
 # Portfolio
-## My Projects
+## My projects
 ### Project 1
-![logo](/logo.jpg)
-### Project 2
 
+![Histogram](/histogram-example-2.png)
+### Project 2
