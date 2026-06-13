@@ -33,7 +33,7 @@ My goal is to continue developing as a well-rounded data professional, combining
 # Projects
 
 ## Online Retail Inventory Forecasting
-This project explores how time series forecasting can be used to better understand online retail demand patterns and support smarter inventory planning, using a publicly available online retail dataset [https://archive.ics.uci.edu/dataset/502/online+retail+ii].
+This project explores how time series forecasting can be used to better understand online retail demand patterns and support smarter inventory planning, using a publicly available online retail dataset from [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
 
 ### Data Preparation
 To prepare it for analysis, the data was cleaned by removing cancelled orders, filtering out records with negative or zero quantities and prices, and converting key columns into the correct data types. This ensured that the analysis focused only on valid sales activity.
